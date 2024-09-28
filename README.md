@@ -45,11 +45,22 @@ My journey in Network Security has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+<a href="https://www.credly.com/badges/e012302d-f7c0-4087-b1b4-00ee4003f757/public_url" target="_blank">
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCNA-0072C6?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank">
-    <img src="https://img.shields.io/badge/-CCNA-0072C6?&style=for-the-badge&logo=Cisco&logoColor=white" />
-</a>
+    
+<a href="https://www.credly.com/badges/b879e43a-b701-435a-a7f1-fb9d180691c0/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/-CCNA-87ceeb?&style=for-the-badge&logo=Cisco&logoColor=white" />  
+
+ <a href="https://www.credly.com/badges/e062d16e-0efe-4bcf-88d7-6b6e0f80e1f3/public_url" target="_blank" >
+    <img src="https://img.shields.io/badge/-Cisco%20CyberOps-0072C6?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</a>  
+<a href="https://www.credly.com/badges/4f1662be-0c95-4c27-8710-3062054ca165/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/-CC%20Certified-007ACC?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-Fortinet%20Certified%20Associate%20Cybersecurity-4B275F?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+
+<a href="https://www.credly.com/badges/94623488-5f95-40b2-9ce8-a119fe19c791/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/-Juniper%20Certified%20Associate-006400?&style=for-the-badge&logo=Juniper&logoColor=white" />
+
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
